@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @birglang<br>👀 I’m interested in Software-Defined Networking (SDN).<br>🌱 I’m currently learning Blockchain.<br>💞️ I’m looking to collaborate on integrating Blockchain as a security solution for SDN.<br>📫 How to reach me Email: birglang2017bit@gmail.com
+👋 Hi, I’m @birglang<br>👀 Interested in Software-Defined Networking (SDN).<br>🌱 Learning Blockchain and ML.<br>💞️ Looking to collaborate on integrating Blockchain as a security solution for SDN.<br>📫 Reach me Email: birglang2017bit@gmail.com
 
 
 ## 🌐 Socials:
